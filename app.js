@@ -27,3 +27,41 @@ console.log("Hello World !");
 // }
 
 
+
+// var zip = document.getElementById("input");
+// var city = document.getElementById("city");
+// function hover(){
+
+// }
+
+// const div = document.getElementById("main");
+
+// var arr = [{
+// id : 1,
+// name:"arzoo",
+// age : 13,
+// class : 10
+// },
+// {    id : 2,
+//     name:"Ali",
+//     age : 13,
+//     class : 10
+// },
+// {
+//         id : 3,
+//         name:"arzoo",
+//         age : 13,
+//         class : 10
+// },
+// {
+//             id : 4,
+//             name:"arzoo",
+//             age : 13,
+//             class : 10
+// },
+// {
+//                 id : 5,
+//                 name:"arzoo",
+//                 age : 13,
+//                 class : 10
+// }]
