@@ -65,3 +65,12 @@ console.log("Hello World !");
 //                 age : 13,
 //                 class : 10
 // }]
+
+
+// var input = prompt("Enter Your Name");
+
+
+
+
+
+
