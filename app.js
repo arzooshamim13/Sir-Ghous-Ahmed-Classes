@@ -71,7 +71,11 @@ console.log("Hello World !");
 
 // var arr = ["Hello",];
 
-// var 
+// var obj ={
+// name : "Arzoo Shamim",
+//   age: 14,
+//   student : true
+// }
 
 
 
