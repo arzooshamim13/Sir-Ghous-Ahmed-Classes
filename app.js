@@ -78,6 +78,23 @@ console.log("Hello World !");
 // }
 
 
+// var obj = {
+//     user : "Arzoo",
+//     age : 14,
+//     class : 10
+// };
+// var box  = document.getElementById("main");
+// box.innerHTML += obj.user + "<br />" + obj.age + "<br />" + obj.class;
+
+// constructor function
+
+// function Abc(){
+//     this.name = "Arzoo";
+//     this.age = 14;
+//     this.class = 10;
+// }
+// console.log(new Abc)
+
 
 
 
