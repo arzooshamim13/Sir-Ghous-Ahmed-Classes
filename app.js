@@ -98,3 +98,60 @@ console.log("Hello World !");
 // console.log("just like that 😉");
 // console.log("I Am Back To Coding Journey 😉");
 
+
+
+
+// var students = {
+//     class1:{
+//         hunain: {
+//         studentName:"Muhammad Hunain",
+//         age:5,
+//         class:1},
+//         areeba: {
+//         studentName:"Areeba Ali",
+//         age:8,
+//         class:1}
+        
+//     },
+//     class7:{
+//         ronaq: {
+//         studentName:"Ronaq Shamim",
+//         age:13,
+//         class:7},
+//         muntaha: {
+//         studentName:"Muntaha Shamim",
+//         age:9,
+//         class:7}
+        
+//     },
+//     class10:{
+//         hussain: {
+//         studentName:"Muhammad Hussain",
+//         age:18,
+//         class:10},
+//         arzoo: {
+//         studentName:"Arzoo Shamim",
+//         age:15,
+//         class:10}
+        
+//     }
+// }
+
+
+// var selectClass = document.getElementById("class");
+// var selectChild = document.getElementById("child");
+
+// for(key in students){
+//     selectClass.innerHTML += `<option value = "${key}">${key}</option>`
+// }
+
+
+// function select(){
+//     selectChild.innerHTML = `<option value="">Select Class</option>` 
+//    for(key in students[selectClass.value]){
+       
+//        selectChild.innerHTML += `<option value = "${key}">${key}</option>`;
+//        console.log(key)
+       
+//     }
+// }
