@@ -155,3 +155,13 @@ console.log("Hello World !");
        
 //     }
 // }
+
+
+
+
+// var obj = {
+//     user: "Arzoo",
+//     age:15,
+//     gender: "Girl"
+// }
+// console.log(this.name = obj);
