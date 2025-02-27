@@ -165,3 +165,22 @@ console.log("Hello World !");
 //     gender: "Girl"
 // }
 // console.log(this.name = obj);
+
+
+
+/////////////////////////////   HITESH CHOUDRY       /////////////////////
+
+// const obj1  = {
+//     1 : 'a',
+//     2 : 'b'
+// }
+// const obj2  = {
+//     3 : 'c',
+//     4 : 'd'
+// }
+
+// let obj3 = Object.assign({},obj1,obj2);
+
+// let obj3 =  {...obj1 , ...obj2}
+// console.log(obj3);
+
